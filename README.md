@@ -1,3 +1,3 @@
 # PyAlarm : Python Alarm Clock
 
-My first Python program. Program open the browser window to a chosen youtube video after as user chosen amount of time.
+My first Python project. The program opens the browser to a chosen youtube video after a specified amount of time.
